@@ -39,7 +39,7 @@ $(document).ready(function() {
                     }
                     else
                     {
-                        $("#status").text("Check your e-mail for a confirmation link.");
+                        $("#status").text("Thank you for signing up.");
                         $("#status").css("color", "green");
                     }
                 }
